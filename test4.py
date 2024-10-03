@@ -1,4 +1,5 @@
 import math
+import random
 print(254235 + 4534)
 print("hello")
 print("hello", "world")
